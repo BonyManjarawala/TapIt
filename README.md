@@ -1,5 +1,5 @@
 # TapIt
-*TapIt is a game made using Gestures With User Defaults
+*TapIt is a Fun game made using Gestures With User Defaults
 
 UIElements
 
@@ -10,8 +10,6 @@ UIElements
 *UIButton
 
 *UIView
-
-*UIAlertView
 
 ![macOS Mojave - VMware Workstation 15 Player (Non-commercial use only) 07-07-2021 19_50_20 (2)](https://user-images.githubusercontent.com/85922433/124777373-c8474a80-df5d-11eb-8bf0-f6e17da0347f.png)
 
